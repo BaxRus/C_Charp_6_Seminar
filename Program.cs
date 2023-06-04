@@ -1,1 +1,1 @@
-﻿// Семинар по C# №6 
+﻿// Vetka dlay zadanie_1
